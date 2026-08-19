@@ -318,7 +318,7 @@ This project was developed as part of the **Infosys Springboard** internship pro
 
 **Platform**: FarmXChain  
 **Version**: 2.0 (Including Order Management & Tracking - Milestone 3)  
-**Last Updated**: January 2026
+
 
 ---
 
