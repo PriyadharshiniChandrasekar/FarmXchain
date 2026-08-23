@@ -304,7 +304,7 @@ FarmXChain/
 - Ownership verification
 - Transaction history
 
-**Benefits**:
+**Benefits** :
 - **Transparency**: All crop data is publicly verifiable
 - **Traceability**: Complete history from farm to table
 - **Tamper-proof**: Blockchain ensures data integrity
