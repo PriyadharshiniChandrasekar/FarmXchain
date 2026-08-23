@@ -322,4 +322,4 @@ This project was developed as part of the **Infosys Springboard** internship pro
 
 ---
 
-**Made with 🌾 for a transparent agricultural future....!**
+**Made with 🌾 for a Transparent Agricultural Future....!**
