@@ -308,7 +308,7 @@ FarmXChain/
 - **Transparency** : All crop data is publicly verifiable
 - **Traceability** : Complete history from farm to table
 - **Tamper-proof** : Blockchain ensures data integrity
-- **Trust Building**: Verified, immutable records
+- **Trust Building** : Verified, immutable records
 
 ---
 
