@@ -48,7 +48,7 @@ graph TD
 
 ---
 
-### Workflow 2: Purchasing Flow (Buyer Perspective)
+### Workflow 2 : Purchasing Flow (Buyer Perspective)
 
 ```mermaid
 graph TD
