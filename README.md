@@ -78,7 +78,7 @@ graph TD
 
 ---
 
-### Workflow 3: Admin User Management
+### Workflow 3 : Admin User Management
 
 ```mermaid
 graph TD
