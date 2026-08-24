@@ -15,7 +15,7 @@ FarmXChain is a revolutionary, blockchain-powered agricultural supply chain plat
 ## 🚀 Vision
 
 The traditional agricultural supply chain suffers from a lack of transparency and high intermediary costs. **FarmXChain** solves this by:
-1.  **Immutable Traceability**: Registering crop details on-chain.
+1.  **Immutable Traceability** : Registering crop details on-chain.
 2.  **Verified Sellers**: Ensuring only authenticated farmers can list produce.
 3.  **Direct Market Access**: Connecting farmers directly with retailers.
 4.  **Multi-Role Ecosystem**: Supporting Farmers, Distributors, Retailers, Consumers and Admins.
