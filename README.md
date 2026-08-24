@@ -100,7 +100,7 @@ graph TD
 4. **Filter by Role** : Use tabs (Farmers, Distributors, Retailers, Consumers)
 5. **Verification Queue** : Check pending farmer verifications
 6. **Review Credentials** : Examine farmer details and documents
-7. **Approve/Reject**: Make verification decision
+7. **Approve/Reject** : Make verification decision
 8. **Account Control**: Block/unblock users if needed
 9. **Transaction Monitoring**: View all platform transactions
 
