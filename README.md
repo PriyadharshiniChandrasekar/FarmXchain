@@ -306,7 +306,7 @@ FarmXChain/
 
 **Benefits**:
 - **Transparency** : All crop data is publicly verifiable
-- **Traceability**: Complete history from farm to table
+- **Traceability** : Complete history from farm to table
 - **Tamper-proof**: Blockchain ensures data integrity
 - **Trust Building**: Verified, immutable records
 
