@@ -73,7 +73,7 @@ graph TD
 5. **Wallet Check** : System verifies sufficient balance
 6. **Order Placement** : Buyer confirms purchase
 7. **Payment Processing** : Amount deducted from buyer's wallet and credited to farmer
-8. **Logistics Assignment**: Order assigned tracking ID
+8. **Logistics Assignment** : Order assigned tracking ID
 9. **Delivery Tracking**: Buyer tracks order status until delivery
 
 ---
