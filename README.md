@@ -39,7 +39,7 @@ graph TD
 ```
 
 **Step-by-Step**:
-1. **Registration**: Farmer creates account with email/password
+1. **Registration** : Farmer creates account with email/password
 2. **Pending Status**: Account awaits admin verification
 3. **Admin Verification**: Admin reviews farmer credentials
 4. **Profile Creation**: Farmer fills in farm details, location, certifications
