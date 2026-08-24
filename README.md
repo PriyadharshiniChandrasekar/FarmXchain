@@ -24,7 +24,7 @@ The traditional agricultural supply chain suffers from a lack of transparency an
 
 ## 🔄 System Workflows
 
-### Workflow 1: Farmer Onboarding & Crop Listing
+### Workflow 1 : Farmer Onboarding & Crop Listing
 
 ```mermaid
 graph TD
