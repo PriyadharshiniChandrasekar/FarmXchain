@@ -1,6 +1,6 @@
 # FarmXChain 🌾⛓️
 
-FarmXChain is a revolutionary, blockchain-powered agricultural supply chain platform designed to bring transparency and trust between farmers, retailers, and consumers. By leveraging Ethereum blockchain technology and a modern web stack, FarmXChain provides an immutable record of a crop's journey—from the initial soil registration to the final marketplace transaction.
+FarmXChain is a revolutionary, blockchain-powered agricultural supply chain platform designed to bring transparency and trust between farmers, retailers and consumers. By leveraging Ethereum blockchain technology and a modern web stack, FarmXChain provides an immutable record of a crop's journey—from the initial soil registration to the final marketplace transaction.
 
 ## 📋 Table of Contents
 1. [Vision](#-vision)
