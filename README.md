@@ -97,7 +97,7 @@ graph TD
 1. **Access Dashboard** : Admin logs in
 2. **User Overview** : View total users by role
 3. **User Management** : Navigate to user management page
-4. **Filter by Role**: Use tabs (Farmers, Distributors, Retailers, Consumers)
+4. **Filter by Role** : Use tabs (Farmers, Distributors, Retailers, Consumers)
 5. **Verification Queue**: Check pending farmer verifications
 6. **Review Credentials**: Examine farmer details and documents
 7. **Approve/Reject**: Make verification decision
