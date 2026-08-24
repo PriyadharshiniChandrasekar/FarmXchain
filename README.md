@@ -102,7 +102,7 @@ graph TD
 6. **Review Credentials** : Examine farmer details and documents
 7. **Approve/Reject** : Make verification decision
 8. **Account Control** : Block/unblock users if needed
-9. **Transaction Monitoring**: View all platform transactions
+9. **Transaction Monitoring** : View all platform transactions
 
 ---
 
