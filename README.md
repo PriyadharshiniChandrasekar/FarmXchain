@@ -72,7 +72,7 @@ graph TD
 4. **Price Calculation** : System calculates: `Total = Quantity × Price per kg`
 5. **Wallet Check** : System verifies sufficient balance
 6. **Order Placement** : Buyer confirms purchase
-7. **Payment Processing**: Amount deducted from buyer's wallet and credited to farmer
+7. **Payment Processing** : Amount deducted from buyer's wallet and credited to farmer
 8. **Logistics Assignment**: Order assigned tracking ID
 9. **Delivery Tracking**: Buyer tracks order status until delivery
 
