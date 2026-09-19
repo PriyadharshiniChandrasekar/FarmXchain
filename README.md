@@ -140,7 +140,7 @@ Administrators act as the curators of the ecosystem, ensuring platform health an
 #### 📈 Transaction Monitoring (Milestone 3) :
 | Page | Detailed Walkthrough |
 | :--- | :--- |
-| **Transaction Overview** | Comprehensive view of all platform transactions, including order details, buyer-seller information, amounts, and statuses. This enables admins to monitor platform activity and resolve disputes. |
+| **Transaction Overview** | Comprehensive view of all platform transactions, including order details, buyer-seller information, amounts and statuses. This enables admins to monitor platform activity and resolve disputes. |
 | **Transaction Dashboard** | ![Admin Transactions](screenshots/admin%20transtitions.png) |
 
 ---
