@@ -277,7 +277,7 @@ FarmXChain/
 4. Add crops with prices
 5. Manage orders as they come in
 
-#### For Buyers (Distributor/Retailer/Consumer)
+#### For Buyers (Distributor/Retailer/Consumer)...
 1. Register with appropriate role
 2. Account activated immediately
 3. Browse marketplace
