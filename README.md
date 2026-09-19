@@ -124,7 +124,7 @@ Administrators act as the curators of the ecosystem, ensuring platform health an
 #### 📊 Dashboard & Analytics
 | Page | Detailed Walkthrough |
 | :--- | :--- |
-| **Admin Dashboard** | The central hub for administrators. It provides a real-time snapshot of the platform's scale, showing the total number of users, the count of registered farmers, and how many verification requests are currently pending. |
+| **Admin Dashboard** | The central hub for administrators. It provides a real-time snapshot of the platform's scale, showing the total number of users, the count of registered farmers and how many verification requests are currently pending. |
 | **Dashboard Activity** | ![Admin Dashboard](screenshots/admin%20dashboard.png) |
 | **System Statistics** | For data-driven management, the Stats page visualizes user growth and platform activity over time. This helps admins identify peak registration periods and manage resource allocation. |
 | **Analytics View** | ![Admin Stats](screenshots/admin%20stats.png) |
