@@ -192,7 +192,7 @@ Where the supply meets the demand with full traceability.
 | **Order Tracking** | Real-time tracking of orders with status updates, delivery timeline, and logistics information. Buyers can monitor their purchases from confirmation to delivery. |
 | **Tracking Dashboard** | ![Order Tracking](screenshots/tracking.png) |
 
-**Order Statuses**:
+**Order Statuses** :
 - `PENDING`: Order placed, awaiting processing
 - `CONFIRMED`: Farmer confirmed order
 - `SHIPPED`: In transit
