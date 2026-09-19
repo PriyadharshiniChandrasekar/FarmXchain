@@ -285,7 +285,7 @@ FarmXChain/
 5. Purchase crops
 6. Track orders
 
-#### For Admins
+#### For Admins...
 1. Login with admin credentials
 2. Review pending farmer verifications
 3. Monitor user activity
