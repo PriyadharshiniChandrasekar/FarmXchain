@@ -202,7 +202,7 @@ Where the supply meets the demand with full traceability.
 ---
 
 ### 👤 Generalized User Profile
-Standardized across all roles, the **User Profile** allows individuals to update their contact information, change passwords, and maintain their digital presence on the platform.
+Standardized across all roles, the **User Profile** allows individuals to update their contact information, change passwords and maintain their digital presence on the platform.
 
 ![User Profile](screenshots/User%20Profile.png)
 
