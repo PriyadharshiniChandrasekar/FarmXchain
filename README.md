@@ -312,7 +312,7 @@ FarmXChain/
 
 ---
 
-## 📄 Recognition
+## 📄 Recognition...
 
 This project was developed as part of the **Infosys Springboard** internship program, aimed at solving real-world supply chain challenges through emerging technologies.
 
