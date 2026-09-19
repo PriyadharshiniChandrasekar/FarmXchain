@@ -118,7 +118,7 @@ The platform features a secure, multi-role authentication system.
 
 ---
 
-### 👑 Administrator Control Panel
+### 👑 Administrator Control Panel...
 Administrators act as the curators of the ecosystem, ensuring platform health and user legitimacy.
 
 #### 📊 Dashboard & Analytics
