@@ -137,7 +137,7 @@ Administrators act as the curators of the ecosystem, ensuring platform health an
 | **Farmer Verification** | **The Trust Anchor.** All farmers must be verified here. Admins review identity and land ownership documents uploaded during registration. Once satisfied, the admin "Verifies" the farmer, granting them the ability to use the blockchain registry. |
 | **Verification Portal** | ![Admin User Verification](screenshots/admin%20user%20verification.png) |
 
-#### 📈 Transaction Monitoring (Milestone 3)
+#### 📈 Transaction Monitoring (Milestone 3) :
 | Page | Detailed Walkthrough |
 | :--- | :--- |
 | **Transaction Overview** | Comprehensive view of all platform transactions, including order details, buyer-seller information, amounts, and statuses. This enables admins to monitor platform activity and resolve disputes. |
