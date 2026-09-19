@@ -38,7 +38,7 @@ graph TD
     H --> I[Available for Purchase]
 ```
 
-**Step-by-Step**:
+**Step-by-Step** :
 1. **Registration** : Farmer creates account with email/password
 2. **Pending Status** : Account awaits admin verification
 3. **Admin Verification** : Admin reviews farmer credentials
