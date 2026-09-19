@@ -65,7 +65,7 @@ graph TD
     J --> K[Order Delivered]
 ```
 
-**Step-by-Step**:
+**Step-by-Step** :
 1. **Browse** : User navigates to Marketplace
 2. **Select Product** : Click on desired crop
 3. **Specify Quantity** : Enter amount needed (in kg)
