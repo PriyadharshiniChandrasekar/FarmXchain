@@ -298,7 +298,7 @@ FarmXChain/
 
 ### Smart Contracts
 
-**CropRegistry.sol**:
+**CropRegistry.sol** :
 - Stores crop information on blockchain
 - Immutable crop records
 - Ownership verification
