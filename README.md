@@ -270,7 +270,7 @@ FarmXChain/
 
 ### Quick Start by Role
 
-#### For Farmers
+#### For Farmers...
 1. Register with role "Farmer"
 2. Wait for admin approval
 3. Create farmer profile with farm details
