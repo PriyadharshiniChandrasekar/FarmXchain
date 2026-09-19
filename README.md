@@ -93,7 +93,7 @@ graph TD
     H -->|No| J[Farmer Rejected]
 ```
 
-**Step-by-Step**:
+**Step-by-Step** :
 1. **Access Dashboard** : Admin logs in
 2. **User Overview** : View total users by role
 3. **User Management** : Navigate to user management page
