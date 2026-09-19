@@ -317,7 +317,7 @@ FarmXChain/
 This project was developed as part of the **Infosys Springboard** internship program, aimed at solving real-world supply chain challenges through emerging technologies.
 
 **Platform** : FarmXChain  
-**Version**: 2.0 (Including Order Management & Tracking - Milestone 3)  
+**Version** : 2.0 (Including Order Management & Tracking - Milestone 3)  
 
 
 ---
