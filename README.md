@@ -113,7 +113,7 @@ The platform features a secure, multi-role authentication system.
 
 | Feature | Description | Screenshot |
 | :--- | :--- | :--- |
-| **User Registration** | New users can sign up as either a **Farmer**, **Distributor**, **Retailer**, or **Consumer**. Farmers are prompted to provide basic details and are informed that they must undergo a verification process by the admin before they can list crops. | ![Registration](screenshots/registration.png) |
+| **User Registration** | New users can sign up as either a **Farmer**, **Distributor**, **Retailer** or **Consumer**. Farmers are prompted to provide basic details and are informed that they must undergo a verification process by the admin before they can list crops. | ![Registration](screenshots/registration.png) |
 | **Secure Login** | A modern, streamlined login portal. The system uses JWT (JSON Web Tokens) to manage sessions securely, ensuring that users can only access features corresponding to their authorized role. | ![Login](screenshots/login.png) |
 
 ---
