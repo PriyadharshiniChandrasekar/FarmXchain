@@ -294,7 +294,7 @@ FarmXChain/
 
 ---
 
-## 🔗 Blockchain Integration
+## 🔗 Blockchain Integration :
 
 ### Smart Contracts
 
