@@ -132,7 +132,7 @@ Administrators act as the curators of the ecosystem, ensuring platform health an
 #### 🛡️ Governance & User Management
 | Page | Detailed Walkthrough |
 | :--- | :--- |
-| **User Management** | A comprehensive list of every user on the platform. Admins can view user roles, contact information, and account status, allowing for efficient community management and auditing. |
+| **User Management** | A comprehensive list of every user on the platform. Admins can view user roles, contact information and account status, allowing for efficient community management and auditing. |
 | **User List** | ![Admin User Management](screenshots/admin%20usermanagement.png) |
 | **Farmer Verification** | **The Trust Anchor.** All farmers must be verified here. Admins review identity and land ownership documents uploaded during registration. Once satisfied, the admin "Verifies" the farmer, granting them the ability to use the blockchain registry. |
 | **Verification Portal** | ![Admin User Verification](screenshots/admin%20user%20verification.png) |
