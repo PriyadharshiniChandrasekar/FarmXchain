@@ -268,7 +268,7 @@ FarmXChain/
     - Deploy `CropRegistry.sol` to your Local Ganache Provider.
     - Update the Contract Address in the backend configuration.
 
-### Quick Start by Role
+### Quick Start by Role :
 
 #### For Farmers...
 1. Register with role "Farmer"
