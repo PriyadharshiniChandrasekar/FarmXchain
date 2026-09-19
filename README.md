@@ -108,7 +108,7 @@ graph TD
 
 ## 📸 Application Deep-Dive
 
-### 🔐 Authentication & Onboarding
+### 🔐 Authentication & Onboarding...
 The platform features a secure, multi-role authentication system.
 
 | Feature | Description | Screenshot |
